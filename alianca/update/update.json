@@ -1,7 +1,5 @@
 {
-  "latestVersion": "1.2",
-  "apkUrl": "https://raw.githubusercontent.com/Malheiros891/myapps1/main/alianca/allianca1.2.apk",
-  "updateUrl": "https://raw.githubusercontent.com/Malheiros891/myapps1/main/alianca/update/"
+  "versionCode": 2, 
+  "versionName": "1.2",
+  "updateUrl": "https://raw.githubusercontent.com/Malheiros891/myapps1/main/alianca/update/alianca1.2.apk"
 }
-
-
